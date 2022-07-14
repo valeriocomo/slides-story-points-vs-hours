@@ -1,5 +1,13 @@
 {
   "name": "story-points-vs-hours",
+  "description": "These slides are on Story points vs Hours",
+  "author": {
+    "name": "Valerio Como",
+    "email": "valeriocomo@gmail.com"
+  },
+  "homepage": "https://valeriocomo.github.io/slides-story-points-vs-hours",
+  "version": "0.0.1",
+  "license": "CC-BY-SA-4.0",
   "private": true,
   "scripts": {
     "build": "slidev build",
